@@ -20,5 +20,6 @@ test {
 }
 
 application {
-    mainClassName('com.epam.Main')
+    mainClass = 'com.epam.Main'
 }
+
